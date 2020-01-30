@@ -11,9 +11,9 @@ Use the package manager yarn to install Gnotes.
 git clone https://github.com/IGZO/Gnotes.git
 ```
 
-## Usage
+# Usage
 
-# using yarn. 
+## using yarn. 
 
 Keep in mind that you have to install Serve globaly, you can do that with
 ```
@@ -29,7 +29,7 @@ Serve -s dist
 
 Should be working on network as well.
 
-# using npm. 
+## using npm. 
 
 Keep in mind that you have to install Serve globaly, you can do that with
 ```
