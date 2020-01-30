@@ -13,6 +13,14 @@ git clone https://github.com/IGZO/Gnotes.git
 
 ## Usage
 
+# using yarn. 
+
+Keep in mind that you have to install Serve globaly, you can do that with
+```
+cd Gnotes-build
+yarn add serve -g --save
+```
+if you have it alredy installed
 ```
 cd Gnotes-build
 yarn install
@@ -20,3 +28,17 @@ Serve -s dist
 ```
 
 Should be working on network as well.
+
+# using npm. 
+
+Keep in mind that you have to install Serve globaly, you can do that with
+```
+cd Gnotes-build
+npm install serve -g --save
+```
+if you have it alredy installed
+```
+cd Gnotes-build
+npm install
+Serve -s dist
+```
