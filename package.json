@@ -1,0 +1,12 @@
+{
+  "name": "Gnotes-build",
+  "version": "1.0.0",
+  "description": "ENSAM-casablanca",
+  "main": "index.js",
+  "repository": "https://github.com/IGZO/Gnotes-build.git",
+  "author": "Igzo <crazy.igzo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
+}
