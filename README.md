@@ -42,3 +42,4 @@ cd Gnotes-build
 npm install
 Serve -s dist
 ```
+Should be working on network as well.
